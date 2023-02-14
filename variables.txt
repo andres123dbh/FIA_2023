@@ -1,0 +1,77 @@
+//Sintomas
+A = Semilla o Embrión 
+B = Plantita 
+C = Panta Joven 
+D = Planta Adulta 
+E = Mancha de color crema 
+F = Parches blancos 
+G = Uso productos a base de BHC-gama, cobre, o mercurio
+H = Semilla Color marrón
+I = Semilla Hinchada 
+J = manchas marrones o amarilla con bordes amarillos en las hojas 
+K = Hojas reducidas 
+L = Hojas Color marrón 
+M = Hojas verde pálido o amarillo 
+N = Hoja rígida y quebrada 
+O = Hojas verde normal 
+P = Hojas se Bifurcasen o Enrollarse 
+Q = Folios color marrón 
+R = Folios plegados 
+S = Folios secos 
+T = Raíces color marrón o negra 
+U = Crecimiento Retrasado
+V = Flechas color crema 
+W = Flechas sin abrir o Flechas cerradas 
+X = Folios blanquecinos 
+Y = Manchas circulares u ovaladas 
+Z = Manchas rectangulares
+AA = Perdida de brillo en frutos 
+AB = Secamiento de los racimos 
+AC = Aborto de inflorescencias 
+AD = Flechas Podridas 
+AD = Tronco color marrón 
+AE = Manchas color oliva 
+AF = Manchas borde amarillos 
+AG = Mal drenaje 
+AH = Detención de crecimiento 
+
+//Enfermedad y sintoma
+AI = Pudrición de Racimos 
+
+AJ = Foliolos no expandidos 
+AK = Bulbo color marrón 
+AL = Tejidos internos color marrón 
+AM = Frutos con moho blanco 
+AN = Frutos color marrón
+AO = Flechas reducidas 
+AP = Foliolos no expandidos 
+AQ = Frutos con moho blanco y color marrón
+AR = Flechas reducidas 
+AS = Tronco quebrado 
+AT = Hojas secas
+AU = Manchar color marrón en el tronco 
+AV = Vasos vasculares color marrón 
+AW = Hojas con cordones rizomórficos
+
+//Enfermedades
+BA = Germen marrón
+BB = Pudrición de la semilla
+BC = Fitotoxicidad por pesticidas
+BD = Manchas foliares y añublo de las hojas
+BE = Deficiencias nutricionales
+BF = Fitotoxicidad por fertilizantes y pesticidas
+BG = Anormalidad de crecimiento
+BH = Secamiento o pudrición de la flecha, mal de juventud, arco defoliado
+BI = Amarillamiento de las hojas inferiores
+BJ = Amarillamiento letal de las hojas jóvenes
+BK = Amarillamiento letal, moteado del cogollo, mancha anular
+BL = Marchitez sorpresiva
+BM = Pudrición letal de la flecha y el cogollo
+BN = Añublo o secamiento de las hojas
+BO = Pudrición de las raíces y de la base del tronco
+BP = Pudrición basal del tronco
+BQ = Anillo marrón
+BR = Pudrición de la parte superior del tronco
+BS = Secamiento letal o marchitez vascular
+BT = Mal de hilachas
+
