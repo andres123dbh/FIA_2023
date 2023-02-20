@@ -1,0 +1,23 @@
+Reglas de las enfermedades de las palmas:
+A & E = BA
+A & F = BB
+B & J = BD
+B & CB = BE
+B & CC= BF
+CA & R = BH
+AY & CD= BI
+AY & V = BJ
+AZ & CE= BM
+D & CF = AJ
+AZ & CG = BR
+D & AX = BT
+-
+C & M = AY
+D & M = AZ
+C & Q = CA
+K & M = CB
+L & T = CC
+S & U = CD
+AD & AE = CE
+AN & AO = CF
+AT & AU = CG
