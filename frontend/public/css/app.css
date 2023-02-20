@@ -1,0 +1,33 @@
+body {
+    margin        : 0;
+    padding       : 0;
+    display       : grid;
+    place-content : center;
+}
+
+#parent {
+    display: table;
+    width: 100%;
+}
+
+#son {
+    display: table-cell;
+    text-align: center;
+    vertical-align: middle;
+}
+
+.grid-container {
+    display: grid;
+    grid-template-columns: auto auto;
+    background-color: #2196F3;
+    padding: 10px;
+}
+
+.grid-item {
+    background-color: rgba(255, 255, 255, 0.8);
+    border: 1px solid rgba(0, 0, 0, 0.8);
+    padding: 20px;
+    font-size: 20px;
+    text-align: left;
+    max-width: 350px;
+}

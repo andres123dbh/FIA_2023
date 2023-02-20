@@ -29,29 +29,42 @@ AA = Perdida de brillo en frutos
 AB = Secamiento de los racimos 
 AC = Aborto de inflorescencias 
 AD = Flechas Podridas 
-AD = Tronco color marrón 
-AE = Manchas color oliva 
-AF = Manchas borde amarillos 
-AG = Mal drenaje 
-AH = Detención de crecimiento 
+AE = Tronco color marrón 
+AF = Manchas color oliva 
+AG = Manchas borde amarillos 
+AH = Mal drenaje 
+AI = Detención de crecimiento 
 
 //Enfermedad y sintoma
-AI = Pudrición de Racimos 
+AJ = Pudrición de Racimos 
 
-AJ = Foliolos no expandidos 
-AK = Bulbo color marrón 
-AL = Tejidos internos color marrón 
-AM = Frutos con moho blanco 
-AN = Frutos color marrón
-AO = Flechas reducidas 
-AP = Foliolos no expandidos 
-AQ = Frutos con moho blanco y color marrón
-AR = Flechas reducidas 
-AS = Tronco quebrado 
-AT = Hojas secas
-AU = Manchar color marrón en el tronco 
-AV = Vasos vasculares color marrón 
-AW = Hojas con cordones rizomórficos
+AK = Foliolos no expandidos 
+AL = Bulbo color marrón 
+AM = Tejidos internos color marrón 
+AN = Frutos con moho blanco 
+AO = Frutos color marrón
+AP = Flechas reducidas 
+AQ = Foliolos no expandidos 
+AR = Frutos con moho blanco y color marrón
+AS = Flechas reducidas 
+AT = Tronco quebrado 
+AU = Hojas secas
+AV = Manchar color marrón en el tronco 
+AW = Vasos vasculares color marrón 
+AX = Hojas con cordones rizomórficos
+
+//Sintomas que comparten algunas enfermedades
+AY = Amarillamiento Joven (C & M)
+AZ = Amarillamiento Adulto (D & M)
+CA = Folios Marrón Joven (C & Q)
+
+//Union de sintomas para minimizar numero de entradas
+CB = K & M 
+CC = L & T 
+CD = S & U
+CE = AD & AE 
+CF = AN & AO
+CG = AT & AU
 
 //Enfermedades
 BA = Germen marrón
