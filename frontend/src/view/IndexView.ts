@@ -17,7 +17,8 @@ export class IndexView {
         const title_healing = document.createElement("h3");
         title_healing.textContent = "Posible cura:";
         const healing = document.createElement("p");
-        healing.textContent = disease!.healing;
+        healing.innerHTML = disease!.healing;
+        healing.classList.add("healing_text")
         const title_rules = document.createElement("h3");
         title_rules.textContent = "Numero de Reglas Escogidas:";
         const rules = document.createElement("p");
@@ -27,6 +28,7 @@ export class IndexView {
         button.addEventListener('click', () => {
             window.location.reload();
         });
+        button.classList.add("enf_button")
         div_son!.appendChild(title);
         div_son!.appendChild(title_disease_info);
         div_son!.appendChild(disease_info);
