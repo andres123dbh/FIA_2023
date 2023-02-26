@@ -5,6 +5,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" type="text/css" href="./css/app.css">
+    <script src="./js/index.js" type="module"></script>
     <title>Enfermedades de las palmas</title>
 </head>
 <body>
@@ -13,31 +14,33 @@
             <h1>Enfermedades de las palmas</h1>
             
             <div class="grid-container">
-                <div class="grid-item"><input type="checkbox" id="A" value="A"> <label>Es una semilla o Embrión</label></div>
-                <div class="grid-item"><input type="checkbox" id="B" value="B"> <label>Es una Plantita</label></div>
-                <div class="grid-item"><input type="checkbox" id="C" value="C"> <label>Es una Panta Joven</label></div>  
-                <div class="grid-item"><input type="checkbox" id="D" value="D"> <label>Es una Planta Adulta</label></div>
-                <div class="grid-item"><input type="checkbox" id="E" value="E"> <label>Tiene mancha de color crema</label></div>
-                <div class="grid-item"><input type="checkbox" id="F" value="F"> <label>Tiene parches blancos</label></div>  
-                <div class="grid-item"><input type="checkbox" id="J" value="J"> <label>Tiene manchas marrones o amarilla con bordes amarillos en las hojas</label></div>
-                <div class="grid-item"><input type="checkbox" id="K" value="K"> <label>Tiene hojas reducidas</label></div>
-                <div class="grid-item"><input type="checkbox" id="L" value="L"> <label>Tiene hojas de color marrón </label></div>  
-                <div class="grid-item"><input type="checkbox" id="M" value="M"> <label>Tiene hojas verde pálido o amarillo</label></div>
-                <div class="grid-item"><input type="checkbox" id="Q" value="Q"> <label>Tiene folios color marrón</label></div>  
-                <div class="grid-item"><input type="checkbox" id="R" value="R"> <label>Tiene los folios plegados</label></div>
-                <div class="grid-item"><input type="checkbox" id="S" value="S"> <label>Tiene los folios secos</label></div>  
-                <div class="grid-item"><input type="checkbox" id="T" value="T"> <label>Tiene raíces de color marrón o negra</label></div>  
-                <div class="grid-item"><input type="checkbox" id="U" value="U"> <label>Esta con crecimiento retrasado</label></div>  
-                <div class="grid-item"><input type="checkbox" id="V" value="V"> <label>Tiene las flechas de color crema</label></div>                  
-                <div class="grid-item"><input type="checkbox" id="AD" value="AD"> <label>Tiene las flechas podridas</label></div>  
-                <div class="grid-item"><input type="checkbox" id="AE" value="AE"> <label>Tiene el tronco de color marrón</label></div>  
-                <div class="grid-item"><input type="checkbox" id="AN" value="AN"> <label>Tiene los frutos con moho blanco</label></div>  
-                <div class="grid-item"><input type="checkbox" id="AO" value="AO"> <label>Tiene los frutos de color marrón</label></div>  
-                <div class="grid-item"><input type="checkbox" id="AT" value="AT"> <label>Tiene el tronco quebrado </label></div>  
-                <div class="grid-item"><input type="checkbox" id="AU" value="AU"> <label>Tiene las hojas secas</label></div>  
+                <div class="grid-item"><input class="checkbox_palms" type="checkbox" id="A" value="A"> <label>Es una semilla o Embrión</label></div>
+                <div class="grid-item"><input class="checkbox_palms" type="checkbox" id="B" value="B"> <label>Es una Plantita</label></div>
+                <div class="grid-item"><input class="checkbox_palms" type="checkbox" id="C" value="C"> <label>Es una Panta Joven</label></div>  
+                <div class="grid-item"><input class="checkbox_palms" type="checkbox" id="D" value="D"> <label>Es una Planta Adulta</label></div>
+                <div class="grid-item"><input class="checkbox_palms" type="checkbox" id="E" value="E"> <label>Tiene mancha de color crema</label></div>
+                <div class="grid-item"><input class="checkbox_palms" type="checkbox" id="F" value="F"> <label>Tiene parches blancos</label></div>  
+                <div class="grid-item"><input class="checkbox_palms" type="checkbox" id="J" value="J"> <label>Tiene manchas marrones o amarilla con bordes amarillos en las hojas</label></div>
+                <div class="grid-item"><input class="checkbox_palms" type="checkbox" id="K" value="K"> <label>Tiene hojas reducidas</label></div>
+                <div class="grid-item"><input class="checkbox_palms" type="checkbox" id="L" value="L"> <label>Tiene hojas de color marrón </label></div>  
+                <div class="grid-item"><input class="checkbox_palms" type="checkbox" id="M" value="M"> <label>Tiene hojas verde pálido o amarillo</label></div>
+                <div class="grid-item"><input class="checkbox_palms" type="checkbox" id="Q" value="Q"> <label>Tiene folios color marrón</label></div>  
+                <div class="grid-item"><input class="checkbox_palms" type="checkbox" id="R" value="R"> <label>Tiene los folios plegados</label></div>
+                <div class="grid-item"><input class="checkbox_palms" type="checkbox" id="S" value="S"> <label>Tiene los folios secos</label></div>  
+                <div class="grid-item"><input class="checkbox_palms" type="checkbox" id="T" value="T"> <label>Tiene raíces de color marrón o negra</label></div>  
+                <div class="grid-item"><input class="checkbox_palms" type="checkbox" id="U" value="U"> <label>Esta con crecimiento retrasado</label></div>  
+                <div class="grid-item"><input class="checkbox_palms" type="checkbox" id="V" value="V"> <label>Tiene las flechas de color crema</label></div>                  
+                <div class="grid-item"><input class="checkbox_palms" type="checkbox" id="AD" value="AD"> <label>Tiene las flechas podridas</label></div>  
+                <div class="grid-item"><input class="checkbox_palms" type="checkbox" id="AE" value="AE"> <label>Tiene el tronco de color marrón</label></div>  
+                <div class="grid-item"><input class="checkbox_palms" type="checkbox" id="AN" value="AN"> <label>Tiene los frutos con moho blanco</label></div>  
+                <div class="grid-item"><input class="checkbox_palms" type="checkbox" id="AO" value="AO"> <label>Tiene los frutos de color marrón</label></div>  
+                <div class="grid-item"><input class="checkbox_palms" type="checkbox" id="AT" value="AT"> <label>Tiene el tronco quebrado </label></div>  
+                <div class="grid-item"><input class="checkbox_palms" type="checkbox" id="AU" value="AU"> <label>Tiene las hojas secas</label></div>  
+                <div class="grid-item"><input class="checkbox_palms" type="checkbox" id="AX" value="AX"> <label>Hojas con cordones rizomórficos</label></div>  
+                <div class="grid-item"></div>  
             </div>
 
-            <button class="enf_button" type="button">Buscar Enfermedad</button> 
+            <button class="enf_button" id="start_button" type="button">Buscar Enfermedad</button> 
         </div>
     </div>
 </body>

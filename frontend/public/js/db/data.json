@@ -1,0 +1,102 @@
+{
+    "A": {
+        "title": "Es semilla",
+        "desc": ""
+    },
+    "B": {
+        "title": "Es plantita",
+        "desc": ""
+    },
+    "C": {
+        "title": "Es planta joven",
+        "desc": ""
+    },
+    "D": {
+        "title": "Es planta adulta",
+        "desc": ""
+    },
+    "E": {
+        "title": "Semilla color marron",
+        "desc": ""
+    },
+    "F": {
+        "title": "Semilla inchada",
+        "desc": ""
+    },
+    "G": {
+        "title": "Manchas color crema",
+        "desc": ""
+    },
+    "H": {
+        "title": "Manchas blancas / blanquesinas",
+        "desc": ""
+    },
+    "I": {
+        "title": "Manchas oscuras en hojas",
+        "desc": ""
+    },
+    "J": {
+        "title": "Manchas ovaladas o rectangulares",
+        "desc": ""
+    },
+    "K": {
+        "title": "Manchas color oliva",
+        "desc": ""
+    },
+    "L": {
+        "title": "Hojas verdes",
+        "desc": ""
+    },
+    "M": {
+        "title": "Hojas verde amarillento o amarillas",
+        "desc": ""
+    },
+    "O": {
+        "title": "Hojas rigidas y quebradizas",
+        "desc": ""
+    },
+    "P": {
+        "title": "Hojas secas",
+        "desc": ""
+    },
+    "Q": {
+        "title": "Hojas de tamaño reducido",
+        "desc": ""
+    },
+    "R": {
+        "title": "Folios plegados",
+        "desc": ""
+    },
+    "S": {
+        "title": "Folios marron",
+        "desc": ""
+    },
+    "U": {
+        "title": "Tronco marron",
+        "desc": ""
+    },
+    "V": {
+        "title": "Raices marron o negras",
+        "desc": ""
+    },
+    "X": {
+        "title": "Frutos con moho blanco",
+        "desc": ""
+    },
+    "Y": {
+        "title": "Frutos color marron",
+        "desc": ""
+    },
+    "Z": {
+        "title": "Fructificación de hongos en el tronco",
+        "desc": ""
+    },
+    "AA": {
+        "title": "Terreno con mal drenage",
+        "desc": ""
+    },
+    "AB": {
+        "title": "Usados productos a base de BHC-gama, cobre, o mercurio",
+        "desc": ""
+    }
+}
