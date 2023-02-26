@@ -1,4 +1,5 @@
 import disease from "../db/data.js"
+import { diseaseI } from "../interfaces/disease.js"
 
 export class IndexModel {
     
@@ -114,7 +115,7 @@ export class IndexModel {
         return array;
     }
 
-    public get_disease():Object|null{
+    public get_disease():diseaseI|null{
         for (let element of disease){
             if (element.letter == this.facts_base[this.facts_base.length-1]) {
                 return element;
