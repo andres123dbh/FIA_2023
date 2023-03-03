@@ -2,7 +2,7 @@ const disease = [
     {
         "letter": "BA",
         "title": "Germen marrón",
-        "healing": "El germen marrón se previene manteniendo el contenido de humedad de la semilla por debajo del 1 9 % , durante el período de calentamiento. Se recomienda el tratamiento de la semilla con una mezcla fungicida-bactericida"
+        "healing": "El germen marrón se previene manteniendo el contenido de humedad de la semilla por debajo del 19% , durante el período de calentamiento. Se recomienda el tratamiento de la semilla con una mezcla fungicida-bactericida"
     },
     {
         "letter": "BB",
